@@ -11,4 +11,4 @@ import { ClasesRoutingModule } from './clases-routing.module';
     ClasesRoutingModule
   ]
 })
-export class ClasesModule { }
+export class ClassesModule { }
